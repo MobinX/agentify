@@ -1,5 +1,5 @@
 {
-  "name": "@mobinx/core",
+  "name": "@mobinx/agentify",
   "version": "0.0.1",
   "description": "#1 Fastest Simplest Typescript Agent Framework optimized for serverless workload",
   "main": "dist/index.js",
